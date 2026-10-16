@@ -1,0 +1,9 @@
+# 本地素材与产物，含学生个人信息，不进版本库
+research_src/
+
+# 程序产物
+out/
+
+# Python
+__pycache__/
+*.pyc
